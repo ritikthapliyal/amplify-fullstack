@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/dashboard": {
+      "name": "/dashboard",
+      "lambdaFunction": "amplifylambdaritik",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}
